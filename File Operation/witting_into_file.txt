@@ -1,0 +1,4 @@
+Hey, I am Injamul .Currently studying BSc in CSE..
+This is another way to write into file..
+
+By using fprintf, we can write into file

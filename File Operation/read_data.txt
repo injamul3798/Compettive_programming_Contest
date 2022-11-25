@@ -1,0 +1,2 @@
+Hey,This is Injam . So I am using this string to read from file.
+And here, we will do some operations using file.
